@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\controllers\\cedulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\controllers\\cedulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\repository\\implementation\\fotorespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\repository\\implementation\\fotorespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\models\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\models\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\repository\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\repository\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\repository\\implementation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\repository\\implementation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\models\\ceduladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\models\\ceduladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\models\\cedula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\models\\cedula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\migrations\\ceduladbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\migrations\\ceduladbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\migrations\\20240409053200_cambio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\migrations\\20240409053200_cambio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\migrations\\20240409040803_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\migrations\\20240409040803_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\uploads\\62a41cce-81fe-4ac3-8eae-f58967f93d1c.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\uploads\\62a41cce-81fe-4ac3-8eae-f58967f93d1c.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\uploads\\3c21907f-e7a8-4c99-8339-dc882fa4da44.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\uploads\\3c21907f-e7a8-4c99-8339-dc882fa4da44.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\uploads\\b0ec8240-64dc-4fcf-bc5d-1d88c0429cfc.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\uploads\\b0ec8240-64dc-4fcf-bc5d-1d88c0429cfc.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\uploads\\b22e671c-28d8-414b-8296-b240f8eb6c35.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\uploads\\b22e671c-28d8-414b-8296-b240f8eb6c35.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\uploads\\8091ac6b-6cc8-41ef-8b86-85efc37ad7c4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\uploads\\8091ac6b-6cc8-41ef-8b86-85efc37ad7c4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\migrations\\20240409071021_migraciondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\migrations\\20240409071021_migraciondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|c:\\users\\asus user\\desktop\\proyecto\\back\\back\\back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEA87B00-15C8-4DFF-8A27-9FE8BC73FEDD}|back\\back.csproj|solutionrelative:back\\back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Models\\IMageRepository.cs",
+              "RelativeDocumentMoniker": "back\\Models\\IMageRepository.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Models\\IMageRepository.cs",
+              "RelativeToolTip": "back\\Models\\IMageRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:28:34.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Repository\\Abstract\\IFileService.cs",
+              "RelativeDocumentMoniker": "back\\Repository\\Abstract\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Repository\\Abstract\\IFileService.cs",
+              "RelativeToolTip": "back\\Repository\\Abstract\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:04:14.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Repository\\Implementation\\FileService.cs",
+              "RelativeDocumentMoniker": "back\\Repository\\Implementation\\FileService.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Repository\\Implementation\\FileService.cs",
+              "RelativeToolTip": "back\\Repository\\Implementation\\FileService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:54:13.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FotoRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Repository\\Implementation\\FotoRespository.cs",
+              "RelativeDocumentMoniker": "back\\Repository\\Implementation\\FotoRespository.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Repository\\Implementation\\FotoRespository.cs",
+              "RelativeToolTip": "back\\Repository\\Implementation\\FotoRespository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:44:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CedulaController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Controllers\\CedulaController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\CedulaController.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Controllers\\CedulaController.cs",
+              "RelativeToolTip": "back\\Controllers\\CedulaController.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAAwAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:44:27.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ceduladbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Models\\Ceduladbcontext.cs",
+              "RelativeDocumentMoniker": "back\\Models\\Ceduladbcontext.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Models\\Ceduladbcontext.cs",
+              "RelativeToolTip": "back\\Models\\Ceduladbcontext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:03:48.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cedula.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Models\\Cedula.cs",
+              "RelativeDocumentMoniker": "back\\Models\\Cedula.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Models\\Cedula.cs",
+              "RelativeToolTip": "back\\Models\\Cedula.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA6wAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:54:17.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CeduladbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Migrations\\CeduladbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "back\\Migrations\\CeduladbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Migrations\\CeduladbContextModelSnapshot.cs",
+              "RelativeToolTip": "back\\Migrations\\CeduladbContextModelSnapshot.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:31:09.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240409053200_Cambio.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Migrations\\20240409053200_Cambio.cs",
+              "RelativeDocumentMoniker": "back\\Migrations\\20240409053200_Cambio.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Migrations\\20240409053200_Cambio.cs",
+              "RelativeToolTip": "back\\Migrations\\20240409053200_Cambio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:58:40.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240409040803_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Migrations\\20240409040803_InitialMigration.cs",
+              "RelativeDocumentMoniker": "back\\Migrations\\20240409040803_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Migrations\\20240409040803_InitialMigration.cs",
+              "RelativeToolTip": "back\\Migrations\\20240409040803_InitialMigration.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwBkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:08:12.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "b22e671c-28d8-414b-8296-b240f8eb6c35.jpg",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\b22e671c-28d8-414b-8296-b240f8eb6c35.jpg",
+              "RelativeDocumentMoniker": "back\\Uploads\\b22e671c-28d8-414b-8296-b240f8eb6c35.jpg",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\b22e671c-28d8-414b-8296-b240f8eb6c35.jpg",
+              "RelativeToolTip": "back\\Uploads\\b22e671c-28d8-414b-8296-b240f8eb6c35.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-09T23:17:01.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "8091ac6b-6cc8-41ef-8b86-85efc37ad7c4.jpg",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\8091ac6b-6cc8-41ef-8b86-85efc37ad7c4.jpg",
+              "RelativeDocumentMoniker": "back\\Uploads\\8091ac6b-6cc8-41ef-8b86-85efc37ad7c4.jpg",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\8091ac6b-6cc8-41ef-8b86-85efc37ad7c4.jpg",
+              "RelativeToolTip": "back\\Uploads\\8091ac6b-6cc8-41ef-8b86-85efc37ad7c4.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-09T23:16:56.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "b0ec8240-64dc-4fcf-bc5d-1d88c0429cfc.jpg",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\b0ec8240-64dc-4fcf-bc5d-1d88c0429cfc.jpg",
+              "RelativeDocumentMoniker": "back\\Uploads\\b0ec8240-64dc-4fcf-bc5d-1d88c0429cfc.jpg",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\b0ec8240-64dc-4fcf-bc5d-1d88c0429cfc.jpg",
+              "RelativeToolTip": "back\\Uploads\\b0ec8240-64dc-4fcf-bc5d-1d88c0429cfc.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-09T23:14:07.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\appsettings.json",
+              "RelativeDocumentMoniker": "back\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\appsettings.json",
+              "RelativeToolTip": "back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T03:47:30.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Program.cs",
+              "RelativeDocumentMoniker": "back\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Program.cs",
+              "RelativeToolTip": "back\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:02:24.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240409071021_Migraciondb.cs",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Migrations\\20240409071021_Migraciondb.cs",
+              "RelativeDocumentMoniker": "back\\Migrations\\20240409071021_Migraciondb.cs",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Migrations\\20240409071021_Migraciondb.cs",
+              "RelativeToolTip": "back\\Migrations\\20240409071021_Migraciondb.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAMwG0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:40:12.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "back.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\back.csproj",
+              "RelativeDocumentMoniker": "back\\back.csproj",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\back.csproj",
+              "RelativeToolTip": "back\\back.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T03:57:13.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "62a41cce-81fe-4ac3-8eae-f58967f93d1c.jpg",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\62a41cce-81fe-4ac3-8eae-f58967f93d1c.jpg",
+              "RelativeDocumentMoniker": "back\\Uploads\\62a41cce-81fe-4ac3-8eae-f58967f93d1c.jpg",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\62a41cce-81fe-4ac3-8eae-f58967f93d1c.jpg",
+              "RelativeToolTip": "back\\Uploads\\62a41cce-81fe-4ac3-8eae-f58967f93d1c.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-10T01:50:05.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "3c21907f-e7a8-4c99-8339-dc882fa4da44.jpg",
+              "DocumentMoniker": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\3c21907f-e7a8-4c99-8339-dc882fa4da44.jpg",
+              "RelativeDocumentMoniker": "back\\Uploads\\3c21907f-e7a8-4c99-8339-dc882fa4da44.jpg",
+              "ToolTip": "C:\\Users\\Asus User\\Desktop\\proyecto\\back\\back\\Uploads\\3c21907f-e7a8-4c99-8339-dc882fa4da44.jpg",
+              "RelativeToolTip": "back\\Uploads\\3c21907f-e7a8-4c99-8339-dc882fa4da44.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-10T01:49:50.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
